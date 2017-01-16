@@ -1,5 +1,5 @@
 var mymap = L.map('mapid').setView([39.8282, -98.5795], 5);
-var doubleAgentEndpoint = 'http://localhost:8080/doubleAgent/';
+var doubleAgentEndpoint = 'https://chadjames-doubleagent.herokuapp.com/';
 var femaleIconColor = 'pink';
 var maleIconColor = 'blue';
 var pinkMarker = L.AwesomeMarkers.icon({
