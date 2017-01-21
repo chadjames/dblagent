@@ -6,7 +6,7 @@
     <groupId>com.crosschx</groupId>
     <artifactId>cjamescodingtest</artifactId>
     <version>0.1.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
 
     <parent>
